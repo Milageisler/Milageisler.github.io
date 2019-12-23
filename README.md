@@ -53,3 +53,16 @@
         <li>Showed prospective clients and general contractors speculative sites</li>
 	</ul>
 			
+	<h3>KOBI Q  KCMO 2017-2019</h3>
+        <h4> General Manager</h4>
+	<p>Oversaw the construction and complete opening of a restaurant and management of its first 2 years of business</p>
+	<ul>
+	<li>Oversaw design, menu concepts and managing inventory</li>
+	<li>Initiated the beverage/cocktail program with visiting guest bartenders</li>
+	</ul>
+	
+	
+
+	
+	
+			
