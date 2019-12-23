@@ -10,7 +10,7 @@
 	  <head>
 	  <body>
 	
-	  <h1>               M I L A   G E I S L E R </h1>
+	  <h1 style="background-color:DodgerBlue;">MILA GEISLER</h1>           
 	                     <p>milageisler7@gmail.com.    1531 Grand Blvd. KCMO 64108</p>
 	  
 	  <a href="https://mila-geisler.com">Visit instragram link</a>
