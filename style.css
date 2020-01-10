@@ -2,28 +2,13 @@
 <html>
 <body>
 body{
-      <DOCTYPE html>
-	<html>
-	<head>
-	  <title>Mila Geisler Resume</title>
-	
-	  <head>
-	
-<h2 style="color: blue;">CatPhotoApp</h2>
-	
-   </body>
-	 <h1 style="background-color:pink;"> M I L A   G E I S L E R </h1>
+     background-color: blue;
+}
 
-
-  	 <p class="italic">milageisler7@gmail.com</p>
-	 <p>               1531 Grand Blvd. KCMO 64108</p>
-		
-		<p> instagram:<a href="https://www.instagram.com/milsmg/">link</a></p>
-
-<h2 style="color:Red;">PROJECT MANAGEMENT</h2>
-
-
+.just-orange {
+	color:orange:
 		 }
+
 </body>
 </html>
 
