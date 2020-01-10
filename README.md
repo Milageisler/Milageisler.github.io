@@ -11,11 +11,11 @@
 	  <body>
 	
 	  <h1 style="background-color:DodgerBlue;">MILA GEISLER</h1>           
-	                     <p>milageisler7@gmail.com.    1531 Grand Blvd. KCMO 64108</p>
+	                     <p class="italic" >milageisler7@gmail.com.    1531 Grand Blvd. KCMO 64108</p>
 	  
 	  <a href="https://mila-geisler.com">Visit instragram link</a>
 	
-	  <h2>PROJECT MANAGMENT</h2>
+	  <h2 class="just-orange">PROJECT MANAGMENT</h2>
 	  	<p> Trusted reputation for overseeing entrepreneurial projects ranging from contemporary art to a 			restaurateur. An self-starter with initiative, adaptability and a proven record of maintaining and completing 		      with professionalism.</p>
 	
 	  <h2>AREAS OF EXPERTISE</h2>
