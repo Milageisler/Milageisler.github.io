@@ -1,26 +1,28 @@
 
 
   	
-	 body{
-	   background-color: pink;
-       
-       margin:50px
-       border: 5px Dodgerblue;
-       padding: 50px
-        
-     
-       
-       
-	 }
-h1 {color:orange;		 	color:orange:
- 		 }		 	
-h2 {color:Dodgerblue;}
+ body{
+	background-color: pink;
+     	margin:50px;
+        border: 5px Dodgerblue;
+        padding: 50px;
+
+}
+h1 {
+	color:orange;		 	
+	color:orange;
+}		
+
+h2 {
+	color:Dodgerblue;
+}
  
-h3{color:red;}
+h3{
+	color:red;
+}
 
 
-  </body>		
- </html>		
+ 		
 
 
 
